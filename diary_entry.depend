@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703002373 source:c:\mbit\icpc\mini project\diary_entry_shraddha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
